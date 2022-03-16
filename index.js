@@ -1,5 +1,5 @@
 let wilderInfo = require('./information');
-c
+
 var cowsay = require("cowsay");
 
 
